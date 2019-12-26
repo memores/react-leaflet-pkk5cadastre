@@ -1,0 +1,25 @@
+{
+  "name": "react-leaflet-pkk5cadastre",
+  "version": "1.0.0",
+  "description": "React cadastre component for leaflet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memores/react-leaflet-pkk5cadastre.git"
+  },
+  "keywords": [
+    "react",
+    "leaflet",
+    "pkk5",
+    "cadastre"
+  ],
+  "author": "Pavel Dorovskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memores/react-leaflet-pkk5cadastre/issues"
+  },
+  "homepage": "https://github.com/memores/react-leaflet-pkk5cadastre#readme"
+}
